@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-  <title> DSA </title>
-</head>
-
 <body>
     <h1>
         WorkTrack: Employee Record Management System
